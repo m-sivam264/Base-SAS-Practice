@@ -1,5 +1,5 @@
 /*
-proc import datafile= "/home/u64259006/Siva_M/My_Library/functions_sas/pumpkin_contest_data.txt"
+proc import datafile= "/home/Siva_M/My_Library/functions_sas/pumpkin_contest_data.txt"
 	dbms=dlm
 	dsd
 	out=Pumpkin_ContestData
@@ -20,7 +20,7 @@ run;
 */
 
 DATA Pumpkin_ContestData;
-    INFILE "/home/u64259006/Siva_M/My_Library/functions_sas/pumpkin_contest_data.txt"
+    INFILE "/home/Siva_M/My_Library/functions_sas/pumpkin_contest_data.txt"
         DLM=' '
         DSD
         TRUNCOVER;
