@@ -1,7 +1,5 @@
 # Base-SAS-Practice
 
-# Base-SAS-Practice
-
 📊 This repository contains my practice work in **Base SAS programming**.  
 The focus is on building strong foundations in SAS for data management, transformation, and clinical research applications.
 
